@@ -1,5 +1,5 @@
 This project has <br>
--Navber Section <br>
+-Navber/Header Section <br>
 -Banner Section <br>
 -Card Section <br>
 -Testimonial Section <br>
